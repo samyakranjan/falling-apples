@@ -8,3 +8,6 @@ Control using Left/Right arrow keys
 For every barrier crossed - +1 points
 For every Red Apple - +3 points
 For every Poison Apple - -3 points
+
+
+Play @ https://samyakranjan.github.io/falling-apples/
